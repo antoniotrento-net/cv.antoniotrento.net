@@ -19,14 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Antonio Trento - CV"
-description: "Curriculum Vitae di Antonio Trento - System Architect & AI Integrator"
+description: "Curriculum Vitae di Antonio Trento - Sviluppatore Python, integrazioni e automazioni"
 baseurl: ""
 url: "https://cv.antoniotrento.net"
 
 author:
   name: "Antonio Trento"
   email: "info@antoniotrento.net"
-  bio: "System Architect & AI Integrator"
+  bio: "Sviluppatore Python · Integrazioni e automazioni"
 
 
 # la immagine di anteprima link per i social media
